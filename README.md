@@ -5,5 +5,5 @@
 
 
 ### Skills
-Some of the different languages & frameworks I know are: **Python, HTML, CSS, JavaScript, TypeScript, Angular, Node.js, React, and more!
+Some of the different languages & frameworks I know are: ***Python, HTML, CSS, JavaScript, TypeScript, Angular, Node.js, React, and more!*** 
 
