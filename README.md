@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Rivers GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivers450)](https://github.com/anuraghazra/github-readme-stats)
 ![Rivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivers450&show_icons=true&theme=aura_dark)
 
 <!--
