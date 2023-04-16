@@ -7,4 +7,6 @@
 Some of the different languages & frameworks I know are: ***Python, HTML, CSS, JavaScript, TypeScript, Angular, Node.js, React, and more!*** 
 
 ### Connect with me:
-[https://www.linkedin.com/in/rivers-snyder/](https://www.linkedin.com/in/alexmooreli/)
+<a href="https://www.linkedin.com/in/rivers-snyder/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
