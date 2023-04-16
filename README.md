@@ -6,3 +6,5 @@
 ### Skills
 Some of the different languages & frameworks I know are: ***Python, HTML, CSS, JavaScript, TypeScript, Angular, Node.js, React, and more!*** 
 
+### Connect with me:
+[https://www.linkedin.com/in/rivers-snyder/]
