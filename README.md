@@ -13,5 +13,5 @@
 <a href="https://www.linkedin.com/in/rivers-snyder/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-📫 How to reach me: ![rivers.snyder2023@gmail.com]
+📫 How to reach me: ![rivers.snyder2023@gmail.com](rivers.snyder2023@gmail.com)
 
