@@ -1,6 +1,6 @@
 ### Hi👋, I'm Rivers
 ![Rivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivers450&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivers450&theme=cobalt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivers450&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
