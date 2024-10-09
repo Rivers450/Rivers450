@@ -1,4 +1,4 @@
-### Hi👋, I'm Rivers
+### Hi👋, I'm Rivers, I am currently looking for an entry-level Software Engineer or Data Analyst job. I am experienced in Microsoft Excel, Google Analytics 4, HTML, CSS, JavaScript, Apex, Python, and Flask.
 ![Rivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivers450&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivers450&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
