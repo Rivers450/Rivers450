@@ -1,4 +1,4 @@
-### Hi👋, I'm Rivers, I am currently looking for an entry-level Software Engineer or Data Analyst job. I am experienced in Microsoft Excel, Google Analytics 4, HTML, CSS, JavaScript, Apex, Python, and Flask.
+### Hi👋, I'm Rivers, I am currently looking for a Quality Assurance Engineer, Data Analyst or Business Analyst job. I am experienced in Azure DevOps, Power BI, C#, SQL, Playwright, Selenium, Postman Newman, Python, Excel, Google Analytics 4, and Automated Testing
 ![Rivers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivers450&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rivers450&theme=cobalt&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
